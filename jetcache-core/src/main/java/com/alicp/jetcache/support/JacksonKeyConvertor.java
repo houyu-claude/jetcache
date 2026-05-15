@@ -3,8 +3,8 @@
  */
 package com.alicp.jetcache.support;
 
-import tools.jackson.core.JsonProcessingException;
-import tools.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.util.function.Function;
 
